@@ -1,0 +1,30 @@
+body,
+html {
+  margin-top: 20px;
+  width: 100%;
+  height: 100%; 
+}
+
+body {
+  
+  background-image: url(startup-background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  background-position: center;
+}
+
+h1 {
+    text-align: center;
+    color: #455372;
+    cursor: pointer;
+    font-family: 'Lato', sans-serif;
+    font-size: 3em;
+    margin-bottom: 30px;
+}
+
+.clear {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
